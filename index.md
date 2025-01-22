@@ -2,10 +2,4 @@
 title: Ishika
 ---
 
-My name is Ishika, and I'm a 9th grader at Eastside Catholic. I enjoy reading, math, and robotics!
-
-Rookie Season: 2024-25
-
-Years on Team: 1
-
-Quote: "Wait, I have something really funny to tell you"
+We are the Incredibots (FTC #26336), a rookie FTC team from Sammamish, WA. Our team ranges from 7th-9th graders at various schools in the area.
