@@ -8,7 +8,7 @@ We are the Incredibots (FTC #26336), a rookie FTC team from Sammamish, WA. Our t
 
 # Accomplishments
 
-# 2024-25 Into the Deep
+## 2024-25 Into the Deep
 
 ### Maxwell LM1 & 2
 Undefeated in qualification matches with an official record of 10-0-0.
